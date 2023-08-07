@@ -10,7 +10,7 @@
 <!-- git 통계: 화면 모드에 따라 다른 테마가 나오도록 media feature 사용 -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
+    srcset="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -23,7 +23,7 @@
 <!-- 사용하는 언어 통계: 화면 모드에 따라 다른 테마가 나오도록 -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0ys&layout=compact&theme=dark&hide_border=true&bg_color=00000000"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0ys&layout=compact&theme=github_dark&border_color=31363C&hide_border=false&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
