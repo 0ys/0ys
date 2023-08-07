@@ -27,7 +27,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Replit" src="https://img.shields.io/badge/-Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
-  <img alt="Rinux" src="https://img.shields.io/badge/-Rinux-FCC624?style=flat-square&logo=rinux&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 </p>
 
