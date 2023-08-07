@@ -62,6 +62,7 @@
 
 <h3>Where to find me</h3>
 <p>
+  <a href="https://blog.naver.com/artohol" target="_blank"><img alt="Naver" src="https://img.shields.io/badge/Blog-%03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /></a>
   <a href="https://github.com/0ys" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   </a> <a href="https://www.linkedin.com/in/예슬-공-a67aa01b3" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
