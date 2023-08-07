@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&theme=dark&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&icon_color"
     media="(prefers-color-scheme: dark)"
   />
   <source
