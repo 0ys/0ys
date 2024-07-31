@@ -1,11 +1,11 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! I'm 0ys 👋</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! I'm yeseul 👋</h1>
 
-- ✨ I’m currently working on ...
+- ✨ I’m currently working on SSAFY 12th
 - 🌱 I’m currently learning Python, Java
 - 💬 Ask me about AI & NLP task
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: CS study is fun!
 
 <h3>Things I code with</h3>
 <!-- 
