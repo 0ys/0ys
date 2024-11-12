@@ -8,7 +8,7 @@
 - ⚡ Fun fact: CS study is fun!
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/0ys?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/0ys?pet-id=643968961802668018" width="1000" height="120"/>
 </a>
 
 <h3>Things I code with</h3>
