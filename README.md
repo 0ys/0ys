@@ -7,6 +7,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: CS study is fun!
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/0ys?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h3>Things I code with</h3>
 <!-- 
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -67,3 +71,8 @@
   <a href="https://blog.naver.com/artohol" target="_blank"><img alt="Naver" src="https://img.shields.io/badge/Blog-%03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" /></a>
 </p>
 
+
+<h1> My Git Pet </h1>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/0ys"/>
+</a>
