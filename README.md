@@ -23,13 +23,23 @@
 ### 🧑‍💻 About me
 
 ```yaml
-name:        Yeseul Gong
-role:        AI / NLP Engineer
-interests:   [LLM, RAG, MLOps, applied research]
-learning:    [Agent systems, distributed training, system design]
-ask_me_about: AI, NLP, Python, backend
-fun_fact:    CS study is still fun ✨
+name:         Yeseul Gong
+role:         AI / NLP Engineer @ AI3  (2026.01 – present)
+currently:    Building Works AI — AI3's agent platform product · owning the MCP layer
+              (agent ↔ MCP integration, internal MCP ops)
+              → https://wrks.ai
+up_next:      Works Drive · Workflow features for Works AI
+focus:        [MCP, LLM Agents, RAG, applied NLP]
+previously:   SSAFY 12th AI Coach · Hyundai Motor R&D collaboration
+ask_me_about: MCP, agents, RAG, Python, Spring, React
+fun_fact:     CS study is still fun ✨
 ```
+
+<p align="center">
+  <a href="https://wrks.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Works%20AI-Try%20it%20now-4F8CC9?style=for-the-badge&logo=rocket&logoColor=white" alt="Works AI" />
+  </a>
+</p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/0ys?pet-id=643968961802668018" width="100%" height="120" alt="gitanimals line"/>
@@ -37,45 +47,88 @@ fun_fact:    CS study is still fun ✨
 
 ---
 
+### 💼 Experience
+
+| | | |
+|---|---|---|
+| **AI3** | AI / NLP Engineer · Dev Team | `2026.01 – Present` |
+| **SSAFY 12th** | AI Coach *(incl. extended term)* · designed a RAG agent for the CS-interview learning platform | `2025.06 – 2026.01` |
+| **Hyundai Motor R&D collab** | Service-robot ontology construction & rule inference | `2022.08 – 2023.08` |
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [🌱 SEED](https://github.com/0ys/SEED)
+**AI DevOps Platform** · 🥈 Excellence Award
+
+One-click infra setup → deploy → auto error recovery. A **Multi-Agent** system analyzes build logs and generates fix code; results surfaced in a Jenkins / HTTPS monitoring dashboard.
+
+`Next.js` `FastAPI` `Spring Boot` `OpenAI` `Multi-Agent`
+
+</td>
+<td width="50%" valign="top">
+
+#### [✉️ Lettering](https://github.com/0ys/Lettering)
+**NFC Keyring × GPT Writing Assistant** · 🥇 Excellence Award
+
+A handwritten-letter experience unlocked by NFC tagging. Built a GPT assistant that rewrites drafts in context and turns uploaded photo keywords into natural sentences.
+
+`React Native` `FastAPI` `Spring Boot` `WebSocket` `OpenAI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🎬 K-ing](https://github.com/0ys/K-ing)
+**Multilingual RAG chatbot for K-content filming spots** · 🥇 Excellence Award
+
+Selected for Samsung-linked user testing. Migrated REST → WebSocket streaming for **~40% faster responses**, and added natural EN / JP / CN translation via prompt engineering.
+
+`Spring AI` `React` `Elasticsearch` `WebSocket` `OpenAI`
+
+</td>
+<td width="50%" valign="top">
+
+#### [🏢 APT](https://github.com/0ys/APT)
+**RAG-based real-estate chatbot** · 🏆 Grand Prize
+
+Recommends apartments by user condition with real-time Q&A on nearby amenities. Designed the RAG pipeline on Pinecone + Kakao Maps and led prompt optimization.
+
+`Spring AI` `Vue` `Pinecone` `Spring Boot` `MySQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Highlights
+
+- 📄 Co-author, ***Knowledge-Based Systems*** (SCIE) — Dialogue State Tracking with ontology-based knowledge graphs and graph-embedding context selection
+- 🪪 **Patent filed** — knowledge graph & dialogue-inference framework
+- 🥈 **Silver medal**, Kaggle *Riiid AIEd Challenge* — top **5%** of 3,000+ teams (LightGBM × Transformer ensemble)
+- 🥇 **SSAFY 12th — 4 projects, 4 wins** (1× Grand Prize · 3× Excellence Award)
+- 🏅 **Open Source Contributhon 2020** — Special Award (TFLite for Microcontrollers · accessibility audio for the deaf, deployed on Apple Watch)
+
+---
+
 ### 🛠️ Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,java,spring,js,ts,react,vue,nodejs,mysql,redis,docker,kubernetes,aws,git,github,linux&perline=10" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,java,spring,js,ts,react,nodejs,nextjs,mysql,postgresql,docker,git,github&perline=8" alt="tech stack" />
   </a>
 </p>
 
 ---
 
 ### 📈 GitHub stats
-
-<p align="center">
-  <!-- Stats card -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F8CC9&icon_color=4F8CC9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CC9&icon_color=4F8CC9"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=0ys&show_icons=true&hide_border=true&bg_color=00000000" height="170" alt="github stats" />
-  </picture>
-
-  <!-- Top languages -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0ys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4F8CC9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0ys&layout=compact&hide_border=true&bg_color=00000000&title_color=4F8CC9"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ys&layout=compact&hide_border=true&bg_color=00000000" height="170" alt="top langs" />
-  </picture>
-</p>
 
 <!-- Streak -->
 <p align="center">
@@ -131,8 +184,6 @@ fun_fact:    CS study is still fun ✨
     <img alt="snake" src="https://raw.githubusercontent.com/0ys/0ys/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-> 💡 Snake animation needs a GitHub Action — see [Platane/snk](https://github.com/Platane/snk) to enable it.
 
 ---
 
